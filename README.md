@@ -105,7 +105,7 @@ endmodule
 ### 🔸 RTL Schematic
 
 *(Upload your RTL image and replace the filename below)*
-![RTL Schematic](FA_RTL_SCh2.PNG)
+![RTL Schematic](Sch_RTL.PNG)
 
 ### 🔸 Simulation Waveform
 
